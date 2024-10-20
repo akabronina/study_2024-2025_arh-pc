@@ -98,7 +98,7 @@ Markdown поддерживает как встраивание фрагмент
 
 ](/images/picture.jpg)
 ![Рис.1](/image/001)
-{ #fig:001 width=70% }(рис. [-@image:001])
+{ #image:001 width=70% }(рис. [-@image:001])
 Устанавливаю  Pandoc and Pandoc-crossref
 { #fig:002 width=70% }
 Открываю сгенерированный файл report.docx LibreOffice 
