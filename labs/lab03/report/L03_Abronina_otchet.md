@@ -89,16 +89,9 @@ Markdown поддерживает как встраивание фрагмент
 # Выполнение лабораторной работы
 Установление необходимого ПО
 Установка TexLive
-![HР
 
+![ Рис 1](image/001){#fig:001 width=70%}
 
-
-
-
-
-](/images/picture.jpg)
-![Рис.1](/image/001)
-{ #image:001 width=70% }(рис. [-@image:001])
 Устанавливаю  Pandoc and Pandoc-crossref
 { #fig:002 width=70% }
 Открываю сгенерированный файл report.docx LibreOffice 
